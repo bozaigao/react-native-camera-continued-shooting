@@ -1,0 +1,17 @@
+language: node_js
+
+node_js:
+ - "6"
+
+install:
+ - npm install
+
+before_script:
+ - npm install grunt-cli -g
+
+script:
+ - grunt test
+
+branches:
+  only:
+    - master
