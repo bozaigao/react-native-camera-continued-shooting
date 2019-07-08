@@ -3,9 +3,372 @@
   <component name="ChangeListManager">
     <list default="true" id="5d4bd4ca-a648-4875-a0eb-a8b2fa681880" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/react-native-camera.iml" beforeDir="false" afterPath="$PROJECT_DIR$/android/react-native-camera-continued-shooting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-native-camera.podspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-native-camera.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/react-native-camera-continued-shooting.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/compat/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/compat/R$bool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/compat/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/compat/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/compat/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/compat/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/compat/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/compat/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/compat/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/compat/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/compat/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/compat/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreui/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreui/R$bool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreui/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreui/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreui/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreui/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreui/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreui/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreui/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreui/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreui/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreui/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreutils/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreutils/R$bool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreutils/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreutils/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreutils/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreutils/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreutils/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreutils/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreutils/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreutils/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreutils/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/coreutils/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/exifinterface/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/fragment/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/fragment/R$bool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/fragment/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/fragment/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/fragment/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/fragment/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/fragment/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/fragment/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/fragment/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/fragment/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/fragment/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/fragment/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/graphics/drawable/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/mediacompat/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/mediacompat/R$bool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/mediacompat/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/mediacompat/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/mediacompat/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/mediacompat/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/mediacompat/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/mediacompat/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/mediacompat/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/mediacompat/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/mediacompat/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/mediacompat/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v4/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v4/R$bool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v4/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v4/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v4/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v4/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v4/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v4/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v4/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v4/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v4/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v4/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/appcompat/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/mediarouter/R$anim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/mediarouter/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/mediarouter/R$bool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/mediarouter/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/mediarouter/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/mediarouter/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/mediarouter/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/mediarouter/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/mediarouter/R$interpolator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/mediarouter/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/mediarouter/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/mediarouter/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/mediarouter/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/mediarouter/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/android/support/v7/palette/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/drawee/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/drawee/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/drawee/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/drawee/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/drawee/backends/pipeline/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/drawee/backends/pipeline/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/drawee/backends/pipeline/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/drawee/backends/pipeline/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/fbcore/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/fbui/textlayoutbuilder/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/fbui/textlayoutbuilder/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/imagepipeline/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/imagepipeline/backends/okhttp3/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/imagepipelinebase/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/react/R$anim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/react/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/react/R$bool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/react/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/react/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/react/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/react/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/react/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/react/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/react/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/react/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/react/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/react/R$xml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/react/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/facebook/soloader/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/cameraview/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/cameraview/R$bool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/cameraview/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/cameraview/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/cameraview/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/cameraview/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/cameraview/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/cameraview/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/cameraview/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/cameraview/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/cameraview/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/cameraview/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/R$array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/R$raw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/ads/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/ads/impl/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/analytics/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/appindexing/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/appinvite/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/auth/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/auth/api/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/base/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/cast/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/cast/framework/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/clearcut/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/contextmanager/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/drive/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/fitness/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/games/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/gass/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/gcm/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/identity/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/iid/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/instantapps/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/location/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/maps/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/measurement/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/measurement/impl/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/nearby/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/panorama/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/play_services/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/plus/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/safetynet/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/tagmanager/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/tagmanager/impl/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/tasks/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/vision/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/wallet/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/android/gms/wearable/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/firebase/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/firebase/auth/api/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/firebase/crash/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/firebase/database/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/firebase/database/connection/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/firebase/dynamiclinks/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/firebase/iid/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/firebase/messaging/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/firebase/remoteconfig/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/google/firebase/storage/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lansosdk/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/MutableImage$GPS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/MutableImage$ImageMutationFailedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/MutableImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCamera$CameraInfoWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCamera$Resolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCamera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$2$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$2$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$2$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$2$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$2$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$2$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$2$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule$CameraPreviewCallbackListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraViewFinder$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraViewFinder$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraViewFinder$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraViewFinder$ReaderAsyncTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraViewFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTCameraViewManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTSensorOrientationChecker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTSensorOrientationChecker$Listener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTSensorOrientationChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/RCTSensorOrientationListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/util/AudioRecordUtil$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/util/AudioRecordUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/util/AvcEncoder$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/util/AvcEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/util/MyVideoEditor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/util/RxJavaUtil$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/util/RxJavaUtil$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/util/RxJavaUtil$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/util/RxJavaUtil$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/util/RxJavaUtil$OnRxAndroidListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/util/RxJavaUtil$OnRxLoopListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/util/RxJavaUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/lwansbrough/RCTCamera/util/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/io/reactivex/android/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule$2$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule$2$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule$2$1$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule$2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule$2$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule$2$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule$2$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule$2$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraViewManager$Events.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/CameraViewManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$anim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$bool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$interpolator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$raw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R$xml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/RNCameraPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/RNCameraView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/RNCameraView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/RNCameraViewHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/events/BarCodeReadEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/events/CameraMountErrorEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/events/CameraReadyEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/events/FaceDetectionErrorEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/events/FacesDetectedEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/tasks/BarCodeScannerAsyncTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/tasks/BarCodeScannerAsyncTaskDelegate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/tasks/FaceDetectorAsyncTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/tasks/FaceDetectorAsyncTaskDelegate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/tasks/ResolveTakenPictureAsyncTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/utils/ImageDimensions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/utils/RNFileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/camera/utils/ScopedContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/facedetector/FaceDetectorModule$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/facedetector/FaceDetectorModule$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/facedetector/FaceDetectorModule$1$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/facedetector/FaceDetectorModule$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/facedetector/FaceDetectorModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/facedetector/FaceDetectorUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/facedetector/RNFaceDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/facedetector/RNFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/facedetector/RNFrameFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/reactnative/facedetector/tasks/FileFaceDetectionAsyncTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/org/webkit/android_jsc/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCamera$CameraInfoWrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCamera$CameraInfoWrapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCamera$Resolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCamera$Resolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCamera.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCamera.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$4$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraModule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraViewFinder$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraViewFinder$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraViewFinder$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraViewFinder$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraViewFinder$ReaderAsyncTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraViewFinder$ReaderAsyncTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraViewFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraViewFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraViewManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/RCTCameraViewManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/util/AvcEncoder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/util/AvcEncoder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/util/AvcEncoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/classes/release/com/lwansbrough/RCTCamera/util/AvcEncoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/intermediate-jars/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/intermediate-jars/debug/res.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/intermediate-jars/release/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/intermediate-jars/release/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javaPrecompile/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/stripDebugSymbol/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/libs/lansongsdk-release.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/react-native-camera-continued-shooting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/lwansbrough/RCTCamera/RCTCamera.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/lwansbrough/RCTCamera/RCTCamera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/lwansbrough/RCTCamera/RCTCameraModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/lwansbrough/RCTCamera/RCTCameraModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/lwansbrough/RCTCamera/RCTCameraViewFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/lwansbrough/RCTCamera/RCTCameraViewFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/lwansbrough/RCTCamera/RCTCameraViewManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/lwansbrough/RCTCamera/RCTCameraViewManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/lwansbrough/RCTCamera/util/AvcEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/lwansbrough/RCTCamera/util/AvcEncoder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,25 +412,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="react-native-camera-continued-shooting.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/android/react-native-camera-continued-shooting.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="react-native-camera-continued-shooting.podspec" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/react-native-camera-continued-shooting.podspec">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="198">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -134,7 +483,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,6 +494,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,18 +543,19 @@
       <updated>1561539477470</updated>
       <workItem from="1561539478873" duration="1192000" />
       <workItem from="1561602913748" duration="3869000" />
-      <workItem from="1562031860372" duration="86000" />
+      <workItem from="1562031860372" duration="957000" />
+      <workItem from="1562577481720" duration="307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5147000" />
+    <option name="totallyTimeSpent" value="6325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -213,7 +563,7 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.319403" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.319403" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -232,6 +582,51 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yarn-error.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Camera.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6644">
+          <caret line="320" column="42" selection-start-line="320" selection-start-column="42" selection-end-line="320" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceDetector.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/yarn-error.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1188">
@@ -329,20 +724,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/react-native-camera-continued-shooting.podspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state relative-caret-position="263">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/android/react-native-camera-continued-shooting.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-native-camera-continued-shooting.podspec">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

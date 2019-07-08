@@ -79,7 +79,6 @@ public class AvcEncoder {
                         if(isFrontCamera){
                             yuv420sp = rotateYUV420Degree180(yuv420sp, width, height);
                         }
-
                         input = yuv420sp;
                     }
                     if (input != null) {

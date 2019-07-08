@@ -129,7 +129,8 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
             @Override
             void onPreviewFrame(byte[] bytes, Camera camera) {
                 if (isRecordVideo.get()) {
-                    if (mYUVQueue.size() >= 10) {
+                    Log.e("TAG", "长度" + bytes.length);
+                    if (mYUVQueue.size() >= 0) {
                         mYUVQueue.poll();
                     }
                     mYUVQueue.add(bytes);
@@ -642,8 +643,14 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
     private String videoPath;
 
     private void startRecord() {
+        Log.e("TAG", "AvcEncoder" + RCTCameraViewFinder.previewSize[0] + "-" + RCTCameraViewFinder.previewSize[1]);
         mAvcCodec = new AvcEncoder(RCTCameraViewFinder.previewSize[0], RCTCameraViewFinder.previewSize[1], mYUVQueue);
         videoPath = LanSongFileUtil.DEFAULT_DIR + System.currentTimeMillis() + ".h264";
+        if (type == RCT_CAMERA_TYPE_FRONT) {
+            Log.e("TAG", "前置摄像头拍摄");
+        } else {
+            Log.e("TAG", "后置摄像头拍摄");
+        }
         mAvcCodec.startEncoder(videoPath, type == RCT_CAMERA_TYPE_FRONT);
 
         audioRecordUtil = new AudioRecordUtil();

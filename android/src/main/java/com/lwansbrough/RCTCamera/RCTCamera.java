@@ -29,6 +29,7 @@ public class RCTCamera {
     public static RCTCamera getInstance() {
         return ourInstance;
     }
+
     public static void createInstance(int deviceOrientation) {
         ourInstance = new RCTCamera(deviceOrientation);
     }
@@ -37,6 +38,7 @@ public class RCTCamera {
     public synchronized Camera acquireCameraInstance(int type) {
         if (null == _cameras.get(type) && null != _cameraTypeToIndex.get(type)) {
             try {
+                Log.e("TAG", "哈哈" + _cameraTypeToIndex.get(type));
                 Camera camera = Camera.open(_cameraTypeToIndex.get(type));
                 _cameras.put(type, camera);
                 adjustPreviewLayout(type);
@@ -131,21 +133,21 @@ public class RCTCamera {
     }
 
     private Camera.Size getClosestSize(List<Camera.Size> supportedSizes, int matchWidth, int matchHeight) {
-      Camera.Size closestSize = null;
-      for (Camera.Size size : supportedSizes) {
-          if (closestSize == null) {
-              closestSize = size;
-              continue;
-          }
+        Camera.Size closestSize = null;
+        for (Camera.Size size : supportedSizes) {
+            if (closestSize == null) {
+                closestSize = size;
+                continue;
+            }
 
-          double currentDelta = Math.sqrt(Math.pow(closestSize.width - matchWidth,2) + Math.pow(closestSize.height - matchHeight,2));
-          double newDelta = Math.sqrt(Math.pow(size.width - matchWidth,2) + Math.pow(size.height - matchHeight,2));
+            double currentDelta = Math.sqrt(Math.pow(closestSize.width - matchWidth, 2) + Math.pow(closestSize.height - matchHeight, 2));
+            double newDelta = Math.sqrt(Math.pow(size.width - matchWidth, 2) + Math.pow(size.height - matchHeight, 2));
 
-          if (newDelta < currentDelta) {
-              closestSize = size;
-          }
-      }
-      return closestSize;
+            if (newDelta < currentDelta) {
+                closestSize = size;
+            }
+        }
+        return closestSize;
     }
 
     protected List<Camera.Size> getSupportedVideoSizes(Camera camera) {
@@ -176,7 +178,7 @@ public class RCTCamera {
     }
 
     public boolean isBarcodeScannerEnabled() {
-      return _barcodeScannerEnabled;
+        return _barcodeScannerEnabled;
     }
 
     public void setBarcodeScannerEnabled(boolean barcodeScannerEnabled) {
@@ -298,7 +300,7 @@ public class RCTCamera {
                 break;
         }
 
-        if (cm == null){
+        if (cm == null) {
             return null;
         }
 
@@ -369,7 +371,7 @@ public class RCTCamera {
         Camera.Parameters parameters = camera.getParameters();
         int maxZoom = parameters.getMaxZoom();
         if (parameters.isZoomSupported()) {
-            if (zoom >=0 && zoom < maxZoom) {
+            if (zoom >= 0 && zoom < maxZoom) {
                 parameters.setZoom(zoom);
                 camera.setParameters(parameters);
             }

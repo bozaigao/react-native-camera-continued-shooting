@@ -157,6 +157,7 @@ public class RCTCameraViewFinder extends TextureView implements TextureView.Surf
         if (!_isStarting) {
             _isStarting = true;
             try {
+                Log.e("TAG", "重新生成摄像头实例");
                 _camera = RCTCamera.getInstance().acquireCameraInstance(_cameraType);
                 Camera.Parameters parameters = _camera.getParameters();
 
@@ -194,8 +195,9 @@ public class RCTCameraViewFinder extends TextureView implements TextureView.Surf
                 );
                 int displayOrientation = getCameraDisplayOrientation(Camera.CameraInfo.CAMERA_FACING_BACK);
                 _camera.setDisplayOrientation(displayOrientation);
-                previewSize = getPreviewSize();
-                parameters.setPreviewSize(previewSize[0], previewSize[1]);
+                RCTCameraViewFinder.previewSize = getPreviewSize();
+                Log.e("TAG", "setPreviewSize" + previewSize[0] + "-" + previewSize[1]);
+                parameters.setPreviewSize(RCTCameraViewFinder.previewSize[0], RCTCameraViewFinder.previewSize[1]);
                 parameters.setPictureSize(optimalPictureSize.width, optimalPictureSize.height);
                 parameters.setPictureFormat(ImageFormat.JPEG);
                 parameters.setPreviewFormat(ImageFormat.NV21);

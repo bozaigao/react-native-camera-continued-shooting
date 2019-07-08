@@ -1,6 +1,7 @@
 package com.lwansbrough.RCTCamera;
 
 import android.support.annotation.Nullable;
+import android.util.Log;
 
 import com.facebook.infer.annotation.Assertions;
 import com.facebook.react.bridge.ReadableArray;
@@ -77,6 +78,7 @@ public class RCTCameraViewManager extends ViewGroupManager<RCTCameraView> {
 
     @ReactProp(name = "type")
     public void setType(RCTCameraView view, int type) {
+        Log.e("TAG", "更新了摄像头类型");
         view.setCameraType(type);
     }
 
