@@ -16,7 +16,8 @@ react-native link react-native-camera-continued-shooting链接Android和iOS原�
 将react-native-camera-continued-shooting/android/lib目录下的lansongsdk第三方依赖库拷贝到自己项目android目录下，然后在项目settings.gradle做以下配置,然后clean build运行
 ```java
 include ':lansongsdk'
-```#### iOS端额外配置
+```
+#### iOS端额外配置
 直接进入ios目录执行pod install然后关闭Xcode重新打开项目完成所有依赖.
 ### 使用方法，属性和方法参照1.0.2版本的[react-native-camera](https://github.com/react-native-community/react-native-camera),续拍api调用参照以下代码
 ```javascript
