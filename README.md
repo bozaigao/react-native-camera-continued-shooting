@@ -19,7 +19,7 @@ include ':lansongsdk'
 ```
 #### iOS端额外配置
 直接进入ios目录执行pod install然后关闭Xcode重新打开项目完成所有依赖.
-### 使用方法，属性和方法参照1.0.2版本的[react-native-camera](https://github.com/react-native-community/react-native-camera),续拍api调用参照以下代码
+### 使用方法，其他属性和方法参照1.0.2版本的[react-native-camera](https://github.com/react-native-community/react-native-camera),续拍api调用参照以下代码
 ```javascript
 //@ts-ignore
 import Camera from 'react-native-camera-continued-shooting';
