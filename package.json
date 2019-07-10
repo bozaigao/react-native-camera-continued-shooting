@@ -1,6 +1,6 @@
 {
   "name": "react-native-camera-continued-shooting",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "基于react-native-camera修改后的前后摄像头切换续拍组件",
   "main": "src/index.js",
   "repository": {
