@@ -8,4 +8,4 @@
 ### js端的修改:
 对Android和iOS原生接口做了统一封装，在rn层不需要再分平台单独处理，开始录像和恢复继续录像只需要调用this.camera.capture(),暂停录像this.camera.pauseCapture(),重拍this.camera.resetCamera()，停止录像this.camera.stopCapture().then((path) => {}).catch(err => console.error(err)),然后在promise回调里面处理录制好的视频本地地址就行。
 ### 录制效果
-![录制效果](./录制效果.mp4)
+![录制效果](./录制效果.gif)
