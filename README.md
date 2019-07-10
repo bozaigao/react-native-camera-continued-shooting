@@ -62,3 +62,5 @@ render() {
 
 ### 录制效果
 ![录制效果](./效果展示.gif)
+
+相关链接阿里云视频点播组件[react-native-aliyun-playview](https://github.com/bozaigao/react-native-aliyun-playview)
