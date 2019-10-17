@@ -591,26 +591,26 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
 
     @ReactMethod
     public void capture(final ReadableMap options, final Promise promise) {
-//        if (RCTCamera.getInstance() == null) {
-//            promise.reject("Camera is not ready yet.");
-//            return;
-//        }
-//
-//        int orientation = options.hasKey("orientation") ? options.getInt("orientation") : RCTCamera.getInstance().getOrientation();
-//        if (orientation == RCT_CAMERA_ORIENTATION_AUTO) {
-//            _sensorOrientationChecker.onResume();
-//            _sensorOrientationChecker.registerOrientationListener(new RCTSensorOrientationListener() {
-//                @Override
-//                public void orientationEvent() {
-//                    int deviceOrientation = _sensorOrientationChecker.getOrientation();
-//                    _sensorOrientationChecker.unregisterOrientationListener();
-//                    _sensorOrientationChecker.onPause();
-//                    captureWithOrientation(options, promise, deviceOrientation);
-//                }
-//            });
-//        } else {
-//            captureWithOrientation(options, promise, orientation);
-//        }
+       if (RCTCamera.getInstance() == null) {
+           promise.reject("Camera is not ready yet.");
+           return;
+       }
+
+       int orientation = options.hasKey("orientation") ? options.getInt("orientation") : RCTCamera.getInstance().getOrientation();
+       if (orientation == RCT_CAMERA_ORIENTATION_AUTO) {
+           _sensorOrientationChecker.onResume();
+           _sensorOrientationChecker.registerOrientationListener(new RCTSensorOrientationListener() {
+               @Override
+               public void orientationEvent() {
+                   int deviceOrientation = _sensorOrientationChecker.getOrientation();
+                   _sensorOrientationChecker.unregisterOrientationListener();
+                   _sensorOrientationChecker.onPause();
+                   captureWithOrientation(options, promise, deviceOrientation);
+               }
+           });
+       } else {
+           captureWithOrientation(options, promise, orientation);
+       }
 
         type = options.getInt("type");
         Log.e("TAG", "摄像头切换了" + type);
