@@ -6,9 +6,10 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.media.CamcorderProfile;
 import android.os.Build;
-import android.support.media.ExifInterface;
 import android.util.SparseArray;
 import android.view.ViewGroup;
+
+import androidx.exifinterface.media.ExifInterface;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.ReactContext;
@@ -17,7 +18,6 @@ import com.facebook.react.uimanager.UIManagerModule;
 import com.google.android.cameraview.CameraView;
 import com.google.android.gms.vision.face.Face;
 import com.google.zxing.Result;
-
 import org.reactnative.camera.events.BarCodeReadEvent;
 import org.reactnative.camera.events.CameraMountErrorEvent;
 import org.reactnative.camera.events.CameraReadyEvent;
@@ -25,7 +25,6 @@ import org.reactnative.camera.events.FaceDetectionErrorEvent;
 import org.reactnative.camera.events.FacesDetectedEvent;
 import org.reactnative.camera.utils.ImageDimensions;
 import org.reactnative.facedetector.RNFaceDetector;
-
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Locale;

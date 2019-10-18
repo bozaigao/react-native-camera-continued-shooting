@@ -1,18 +1,20 @@
 package com.lwansbrough.RCTCamera;
 
-import android.support.annotation.Nullable;
 import android.util.Log;
 
 import com.facebook.infer.annotation.Assertions;
 import com.facebook.react.bridge.ReadableArray;
 import com.facebook.react.common.MapBuilder;
-import com.facebook.react.uimanager.*;
+import com.facebook.react.uimanager.ThemedReactContext;
+import com.facebook.react.uimanager.ViewGroupManager;
 import com.facebook.react.uimanager.annotations.ReactProp;
 import com.lansosdk.videoeditor.LanSoEditor;
 
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
+
+import javax.annotation.Nullable;
 
 public class RCTCameraViewManager extends ViewGroupManager<RCTCameraView> {
     private static final String REACT_CLASS = "RCTCamera";

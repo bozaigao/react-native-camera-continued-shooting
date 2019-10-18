@@ -1,11 +1,7 @@
 package org.reactnative.camera.events;
 
-import android.support.v4.util.Pools;
 import android.util.SparseArray;
-
-import org.reactnative.camera.CameraViewManager;
-import org.reactnative.camera.utils.ImageDimensions;
-import org.reactnative.facedetector.FaceDetectorUtils;
+import androidx.core.util.Pools;
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.WritableArray;
 import com.facebook.react.bridge.WritableMap;
@@ -13,8 +9,9 @@ import com.facebook.react.uimanager.events.Event;
 import com.facebook.react.uimanager.events.RCTEventEmitter;
 import com.google.android.cameraview.CameraView;
 import com.google.android.gms.vision.face.Face;
-
-import java.util.Date;
+import org.reactnative.camera.CameraViewManager;
+import org.reactnative.camera.utils.ImageDimensions;
+import org.reactnative.facedetector.FaceDetectorUtils;
 
 public class FacesDetectedEvent extends Event<FacesDetectedEvent> {
   private static final Pools.SynchronizedPool<FacesDetectedEvent> EVENTS_POOL =

@@ -1,17 +1,18 @@
 package org.reactnative.camera;
 
-import android.support.annotation.Nullable;
-
 import com.facebook.react.bridge.ReadableArray;
 import com.facebook.react.common.MapBuilder;
 import com.facebook.react.uimanager.ThemedReactContext;
 import com.facebook.react.uimanager.ViewGroupManager;
 import com.facebook.react.uimanager.annotations.ReactProp;
 import com.google.android.cameraview.AspectRatio;
+import com.lwansbrough.RCTCamera.RCTCameraView;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+
+import javax.annotation.Nullable;
 
 public class CameraViewManager extends ViewGroupManager<RNCameraView> {
   public enum Events {

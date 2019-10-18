@@ -325,14 +325,6 @@ export default class Camera extends Component {
         return CameraManager.capture(options);
     }
 
-    pauseCapture(){
-        if(Platform.OS === 'android'){
-            CameraManager.pauseCapture();
-        }else if(Platform.OS === 'ios'){
-            CameraManager.stopCapture();
-        }
-}
-
 
     startPreview() {
         if (Platform.OS === 'android') {
@@ -358,7 +350,43 @@ export default class Camera extends Component {
         }
     }
 
-    stopCapture() {
+    startRecord(options) {
+        const props = convertNativeProps(this.props);
+        options = {
+            audio: props.captureAudio,
+            barCodeTypes: props.barCodeTypes,
+            mode: props.captureMode,
+            playSoundOnCapture: props.playSoundOnCapture,
+            target: props.captureTarget,
+            quality: props.captureQuality,
+            type: props.type,
+            title: '',
+            description: '',
+            mirrorImage: props.mirrorImage,
+            fixOrientation: props.fixOrientation,
+            cropToPreview: props.cropToPreview,
+            ...options,
+        };
+
+        if (options.mode === Camera.constants.CaptureMode.video) {
+            options.totalSeconds = options.totalSeconds > -1 ? options.totalSeconds : -1;
+            options.preferredTimeScale = options.preferredTimeScale || 30;
+            options.cropToPreview = false;
+            this.setState({isRecording: true});
+        }
+
+        return CameraManager.startCapture(options);
+    }
+
+    pauseRecord(){
+        if(Platform.OS === 'android'){
+            CameraManager.pauseCapture();
+        }else if(Platform.OS === 'ios'){
+            CameraManager.stopCapture();
+        }
+    }
+
+    stopRecord() {
         if (this.state.isRecording) {
             this.setState({isRecording: false});
             if(Platform.OS === 'android'){
@@ -370,7 +398,7 @@ export default class Camera extends Component {
         return Promise.resolve('Not Recording.');
     }
 
-resetCamera() {
+resetRecord() {
     CameraManager.resetCamera();
 }
 

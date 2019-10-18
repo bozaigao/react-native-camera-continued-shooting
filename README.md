@@ -46,18 +46,18 @@ render() {
     }
 
     //开始录制视频
-    this.camera.capture();
+    this.camera.startRecord();
     //暂停录制视频
-    this.camera.pauseCapture();
+    this.camera.pauseRecord();
     //继续录制视频
-    this.camera.capture();
+    this.camera.startRecord();
     //终止录制视频
-     this.camera.stopCapture().then((path) => {
+     this.camera.stopRecord().then((path) => {
                 console.log('视频录制本地路径',path);
             }).catch(err => console.error(err));
     //重新录制视频
-    this.camera.resetCamera();
-    this.camera.capture();
+    this.camera.resetRecord();
+    this.camera.startRecord();
 ```
 
 ### 录制效果

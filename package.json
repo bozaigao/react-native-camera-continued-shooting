@@ -1,35 +1,41 @@
 {
-  "name": "react-native-camera-continued-shooting",
-  "version": "1.0.5",
-  "description": "基于react-native-camera修改后的前后摄像头切换续拍组件",
-  "main": "src/index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bozaigao/react-native-camera-continued-shooting.git"
+  "_from": "react-native-camera-continued-shooting@^1.0.2",
+  "_id": "react-native-camera-continued-shooting@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-5QJppJ51e6HaMxw907DFCS04DYnM1IxAV3SfC1xTfRDHV8jpIQkNaB16FN/RIvQnsZHnq3sqBtYDBrFwerZ5Tw==",
+  "_location": "/react-native-camera-continued-shooting",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-camera-continued-shooting@^1.0.2",
+    "name": "react-native-camera-continued-shooting",
+    "escapedName": "react-native-camera-continued-shooting",
+    "rawSpec": "^1.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.2"
   },
-  "keywords": [
-    "barcode",
-    "camera",
-    "code",
-    "native",
-    "qr",
-    "react",
-    "react-native",
-    "rncamera",
-    "video-shooting"
+  "_requiredBy": [
+    "/"
   ],
+  "_resolved": "https://registry.npmjs.org/react-native-camera-continued-shooting/-/react-native-camera-continued-shooting-1.0.3.tgz",
+  "_shasum": "6b2fb3d555fd22ceff453e2185a206e083ca07e4",
+  "_spec": "react-native-camera-continued-shooting@^1.0.2",
+  "_where": "/Users/heyanbei/Desktop/职卓三端项目/ZhiZhuoUser",
   "author": {
     "name": "bozaigao",
     "email": "1054539528@qq.com"
   },
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bozaigao/react-native-camera-continued-shooting/issues"
   },
+  "bundleDependencies": false,
   "dependencies": {
     "lodash": "^4.17.4",
     "prop-types": "^15.5.10"
   },
+  "deprecated": false,
+  "description": "基于react-native-camera修改后的前后摄像头切换续拍组件",
   "devDependencies": {
     "@commitlint/cli": "^6.1.0",
     "@commitlint/config-conventional": "^6.1.0",
@@ -47,5 +53,24 @@
     "prettier": "^1.9.2",
     "simple-git": "1.89.0"
   },
-  "homepage": "https://github.com/bozaigao/react-native-camera-continued-shooting#readme"
+  "homepage": "https://github.com/bozaigao/react-native-camera-continued-shooting#readme",
+  "keywords": [
+    "barcode",
+    "camera",
+    "code",
+    "native",
+    "qr",
+    "react",
+    "react-native",
+    "rncamera",
+    "video-shooting"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "react-native-camera-continued-shooting",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bozaigao/react-native-camera-continued-shooting.git"
+  },
+  "version": "1.0.3"
 }
