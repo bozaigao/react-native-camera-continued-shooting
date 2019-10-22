@@ -46,7 +46,7 @@ render() {
     }
 
     //开始录制视频
-    this.camera.startCapture();
+    this.camera.capture();
     //暂停录制视频
     this.camera.pauseCapture();
     //继续录制视频
