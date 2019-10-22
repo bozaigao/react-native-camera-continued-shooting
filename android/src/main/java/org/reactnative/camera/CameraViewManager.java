@@ -6,8 +6,6 @@ import com.facebook.react.uimanager.ThemedReactContext;
 import com.facebook.react.uimanager.ViewGroupManager;
 import com.facebook.react.uimanager.annotations.ReactProp;
 import com.google.android.cameraview.AspectRatio;
-import com.lwansbrough.RCTCamera.RCTCameraView;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;

@@ -105,7 +105,7 @@
     <orderEntry type="library" name="Gradle: com.adobe.xmp:xmpcore:5.1.2@jar" level="project" />
     <orderEntry type="library" name="Gradle: io.reactivex.rxjava2:rxjava:2.2.8@jar" level="project" />
     <orderEntry type="library" name="Gradle: org.reactivestreams:reactive-streams:1.0.2@jar" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:/Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/android/lansongsdk/libs/lansongcommon_hx.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/android/lansongsdk/libs/lansongcommon_hx.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.facebook.react:react-native:0.60.4@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services:11.0.4@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-cast-framework:11.0.4@aar" level="project" />

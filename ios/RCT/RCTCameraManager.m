@@ -401,20 +401,6 @@ RCT_EXPORT_METHOD(capture:(NSDictionary *)options
   }
 }
 
-RCT_EXPORT_METHOD(startCapture:(NSDictionary *)options
-                  resolve:(RCTPromiseResolveBlock)resolve
-                  reject:(RCTPromiseRejectBlock)reject) {
-    NSInteger captureMode = [[options valueForKey:@"mode"] intValue];
-    NSInteger captureTarget = [[options valueForKey:@"target"] intValue];
-    
-    if (captureMode == RCTCameraCaptureModeStill) {
-        [self captureStill:captureTarget options:options resolve:resolve reject:reject];
-    }
-    else if (captureMode == RCTCameraCaptureModeVideo) {
-        [self captureVideo:captureTarget options:options resolve:resolve reject:reject];
-    }
-}
-
 RCT_EXPORT_METHOD(stopPreview) {
 #if TARGET_IPHONE_SIMULATOR
     return;

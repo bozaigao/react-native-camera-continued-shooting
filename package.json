@@ -11,9 +11,9 @@
     "raw": "react-native-camera-continued-shooting@^1.0.2",
     "name": "react-native-camera-continued-shooting",
     "escapedName": "react-native-camera-continued-shooting",
-    "rawSpec": "^1.0.2",
+    "rawSpec": "^1.0.6",
     "saveSpec": null,
-    "fetchSpec": "^1.0.2"
+    "fetchSpec": "^1.0.6"
   },
   "_requiredBy": [
     "/"
@@ -72,5 +72,5 @@
     "type": "git",
     "url": "git+https://github.com/bozaigao/react-native-camera-continued-shooting.git"
   },
-  "version": "1.0.5"
+  "version": "1.0.3"
 }

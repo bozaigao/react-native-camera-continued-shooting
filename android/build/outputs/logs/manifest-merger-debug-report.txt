@@ -1,53 +1,53 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
-INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
-INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
-INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
-INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
-INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
-INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
+ADDED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
 	package
-		ADDED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:70-102
-		INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+		ADDED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:70-102
+		INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
-		ADDED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
-		INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+		ADDED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
+		INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
-		ADDED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
-		INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+		ADDED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:1-6:12
+		INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.CAMERA
-ADDED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:2:3-63
+ADDED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:2:3-63
 	android:name
-		ADDED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:2:20-60
+		ADDED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:2:20-60
 uses-feature#android.hardware.camera
-ADDED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:4:3-83
+ADDED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:4:3-83
 	android:required
-		ADDED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:4:56-80
+		ADDED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:4:56-80
 	android:name
-		ADDED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:4:17-55
+		ADDED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:4:17-55
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:5:3-93
+ADDED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:5:3-93
 	android:required
-		ADDED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:5:66-90
+		ADDED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:5:66-90
 	android:name
-		ADDED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:5:17-65
+		ADDED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml:5:17-65
 uses-sdk
-INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
-INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
-INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
-INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
-		ADDED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+		ADDED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
-		ADDED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/heyanbei/Desktop/tmp/药仁当归/YaoRenDangGui/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+		ADDED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/heyanbei/Desktop/职卓三端项目/医点数据/E_Point/node_modules/react-native-camera-continued-shooting/android/src/main/AndroidManifest.xml

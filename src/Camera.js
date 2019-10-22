@@ -325,32 +325,7 @@ export default class Camera extends Component {
         return CameraManager.capture(options);
     }
 
-
-    startPreview() {
-        if (Platform.OS === 'android') {
-            UIManager.dispatchViewManagerCommand(
-                this._cameraHandle,
-                UIManager.RCTCamera.Commands.startPreview,
-                [],
-            );
-        } else {
-            CameraManager.startPreview();
-        }
-    }
-
-    stopPreview() {
-        if (Platform.OS === 'android') {
-            UIManager.dispatchViewManagerCommand(
-                this._cameraHandle,
-                UIManager.RCTCamera.Commands.stopPreview,
-                [],
-            );
-        } else {
-            CameraManager.stopPreview();
-        }
-    }
-
-    startRecord(options) {
+    startCapture(options) {
         const props = convertNativeProps(this.props);
         options = {
             audio: props.captureAudio,
@@ -378,15 +353,40 @@ export default class Camera extends Component {
         return CameraManager.startCapture(options);
     }
 
-    pauseRecord(){
+    pauseCapture(){
         if(Platform.OS === 'android'){
             CameraManager.pauseCapture();
         }else if(Platform.OS === 'ios'){
             CameraManager.stopCapture();
         }
+}
+
+
+    startPreview() {
+        if (Platform.OS === 'android') {
+            UIManager.dispatchViewManagerCommand(
+                this._cameraHandle,
+                UIManager.RCTCamera.Commands.startPreview,
+                [],
+            );
+        } else {
+            CameraManager.startPreview();
+        }
     }
 
-    stopRecord() {
+    stopPreview() {
+        if (Platform.OS === 'android') {
+            UIManager.dispatchViewManagerCommand(
+                this._cameraHandle,
+                UIManager.RCTCamera.Commands.stopPreview,
+                [],
+            );
+        } else {
+            CameraManager.stopPreview();
+        }
+    }
+
+    stopCapture() {
         if (this.state.isRecording) {
             this.setState({isRecording: false});
             if(Platform.OS === 'android'){
@@ -398,7 +398,7 @@ export default class Camera extends Component {
         return Promise.resolve('Not Recording.');
     }
 
-resetRecord() {
+resetCamera() {
     CameraManager.resetCamera();
 }
 
