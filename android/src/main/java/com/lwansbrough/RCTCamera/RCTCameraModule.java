@@ -591,6 +591,7 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
 
     @ReactMethod
     public void capture(final ReadableMap options, final Promise promise) {
+        Log.e("TAG", "调用原生拍照");
         if (RCTCamera.getInstance() == null) {
             promise.reject("Camera is not ready yet.");
             return;
@@ -616,8 +617,8 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
 
 
     @ReactMethod
-    public void startCapture(final ReadableMap options,final Promise promise) {
-        Log.e("TAG","开始录制startCapture");
+    public void startCapture(final ReadableMap options, final Promise promise) {
+        Log.e("TAG", "开始录制startCapture");
 
         if (mRecordingPromise == null) {
             mRecordingPromise = promise;
@@ -724,6 +725,7 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
         Camera.PictureCallback captureCallback = new Camera.PictureCallback() {
             @Override
             public void onPictureTaken(final byte[] data, Camera camera) {
+                Log.e("TAG","onPictureTaken");
                 camera.stopPreview();
                 camera.startPreview();
 
@@ -752,6 +754,7 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
 
         if (mSafeToCapture) {
             try {
+                Log.e("TAG","takePicture");
                 camera.takePicture(shutterCallback, null, captureCallback);
                 mSafeToCapture = false;
             } catch (RuntimeException ex) {

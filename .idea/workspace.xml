@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d4bd4ca-a648-4875-a0eb-a8b2fa681880" name="Default" comment="" />
+    <list default="true" id="5d4bd4ca-a648-4875-a0eb-a8b2fa681880" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/.transforms/33851addeb0e3ffbb70d5760e1283dab.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/.transforms/33851addeb0e3ffbb70d5760e1283dab/full/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/.transforms/910a823390bd2254473cd0d33dfed4a2/full/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/.transforms/910a823390bd2254473cd0d33dfed4a2/full/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/compile_library_classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/compile_library_classes/debug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/compile_library_classes/release/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/compile_library_classes/release/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/full_jar/debug/createFullJarDebug/full.jar" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/full_jar/debug/createFullJarDebug/full.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/full_jar/release/createFullJarRelease/full.jar" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/full_jar/release/createFullJarRelease/full.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule$5$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule$5$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/debug/classes/com/lwansbrough/RCTCamera/RCTCameraModule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule$5$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule$5$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/javac/release/classes/com/lwansbrough/RCTCamera/RCTCameraModule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/runtime_library_classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/runtime_library_classes/debug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/runtime_library_classes/release/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/runtime_library_classes/release/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/react-native-camera-continued-shooting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/android/react-native-camera-continued-shooting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/lwansbrough/RCTCamera/RCTCameraModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/lwansbrough/RCTCamera/RCTCameraModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/org/reactnative/camera/CameraModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/org/reactnative/camera/CameraModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/RCT/RCTCameraManager.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/RCT/RCTCameraManager.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,7 +62,7 @@
       <file leaf-file-name="Camera.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Camera.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-791">
+            <state relative-caret-position="7348">
               <caret line="352" column="15" selection-start-line="352" selection-start-column="4" selection-end-line="352" selection-end-column="15" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -47,8 +83,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="57" column="12" lean-forward="true" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
+            <state relative-caret-position="374">
+              <caret line="17" column="21" lean-forward="true" selection-end-line="66" />
             </state>
           </provider>
         </entry>
@@ -114,7 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,6 +166,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,22 +223,24 @@
       <workItem from="1564281451311" duration="2108000" />
       <workItem from="1570539362044" duration="674000" />
       <workItem from="1571411692518" duration="460000" />
+      <workItem from="1571716706264" duration="101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15175000" />
+    <option name="totallyTimeSpent" value="15276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21760097" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32923076" />
-      <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30051282" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -589,7 +627,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Camera.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-791">
+        <state relative-caret-position="7348">
           <caret line="352" column="15" selection-start-line="352" selection-start-column="4" selection-end-line="352" selection-end-column="15" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -599,8 +637,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="57" column="12" lean-forward="true" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
+        <state relative-caret-position="374">
+          <caret line="17" column="21" lean-forward="true" selection-end-line="66" />
         </state>
       </provider>
     </entry>
