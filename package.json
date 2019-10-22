@@ -11,9 +11,9 @@
     "raw": "react-native-camera-continued-shooting@^1.0.2",
     "name": "react-native-camera-continued-shooting",
     "escapedName": "react-native-camera-continued-shooting",
-    "rawSpec": "^1.0.4",
+    "rawSpec": "^1.0.5",
     "saveSpec": null,
-    "fetchSpec": "^1.0.4"
+    "fetchSpec": "^1.0.5"
   },
   "_requiredBy": [
     "/"
