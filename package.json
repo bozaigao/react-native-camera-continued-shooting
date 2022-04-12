@@ -51,7 +51,7 @@
     "minimist": "1.2.0",
     "pre-commit": "^1.2.2",
     "prettier": "^1.9.2",
-    "simple-git": "1.89.0"
+    "simple-git": "3.5.0"
   },
   "homepage": "https://github.com/bozaigao/react-native-camera-continued-shooting#readme",
   "keywords": [
