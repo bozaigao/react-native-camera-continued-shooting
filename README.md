@@ -1,4 +1,4 @@
-# react-native-camera-continued-shooting
+HUAWEI Selfie # react-native-camera-continued-shooting
 本组件是基于react-native-camera@1.0.2版本修改而成，如果是依赖其他版本的react-native-camera直接将Android和iOS对应的原生
 代码和src/Camera.js代码移植过去就行了，本组件主要是为了解决react-native-camera前后摄像头拍摄后拼接后的视频旋转角度问题，
 ### iOS端的修改:
